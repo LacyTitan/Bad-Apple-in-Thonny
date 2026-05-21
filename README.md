@@ -1,7 +1,7 @@
 # Bad-Apple-in-Thonny
-可在Thonny运行的python脚本，
+A Python script that can run in Thonny.
 
-将.py文件和badapple.txt置于同一文件夹即可
+Just place the `.py` file and `badapple.txt` in the same folder.
 
-### 推荐b2apple.py
-###### b3apple.py是为了应付我的AP CSP考试写的。。。
+### Recommended: b2apple.py
+###### b3apple.py was written mainly to satisfy my AP CSP exam requirements...
