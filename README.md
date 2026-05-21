@@ -1,4 +1,5 @@
 # Bad-Apple-in-Thonny
+### [简体中文](https://github.com/TouhouDebian/Bad-Apple-in-Thonny/blob/main/README-zh_CN.md)
 A Python script that can run in Thonny.
 
 Just place the `.py` file and `badapple.txt` in the same folder.
